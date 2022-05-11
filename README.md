@@ -17,7 +17,7 @@ It provides an easy syntax to specify and map constants in Enum classes while ad
 Via Composer
 
 ``` bash
-$ composer require cerbero/laravel-enum
+$ composer require syp-intra/laravel-enum
 ```
 
 
@@ -274,18 +274,18 @@ If you discover any security related issues, please email andrea.marco.sartori@g
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/cerbero/laravel-enum.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/syp-intra/laravel-enum.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/cerbero90/laravel-enum/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/cerbero90/laravel-enum.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/cerbero90/laravel-enum.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/cerbero/laravel-enum.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/syp-intra/laravel-enum/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/syp-intra/laravel-enum.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/syp-intra/laravel-enum.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/syp-intra/laravel-enum.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/cerbero/laravel-enum
-[link-travis]: https://travis-ci.org/cerbero90/laravel-enum
-[link-scrutinizer]: https://scrutinizer-ci.com/g/cerbero90/laravel-enum/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/cerbero90/laravel-enum
-[link-downloads]: https://packagist.org/packages/cerbero/laravel-enum
+[link-packagist]: https://packagist.org/packages/syp-intra/laravel-enum
+[link-travis]: https://travis-ci.org/syp-intra/laravel-enum
+[link-scrutinizer]: https://scrutinizer-ci.com/g/syp-intra/laravel-enum/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/syp-intra/laravel-enum
+[link-downloads]: https://packagist.org/packages/syp-intra/laravel-enum
 [link-jodie]: https://github.com/jodiedunlop
 [link-enum]: https://github.com/rexlabsio/enum-php
-[link-author]: https://github.com/cerbero90
+[link-author]: https://github.com/syp-intra
